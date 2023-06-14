@@ -83,8 +83,8 @@
 
 # V. References
 
-[1] [Kaggle: za_traffic_2020 dataset, Phan Huy Hoang, 2020,Tsung-Yi Lin, Priya Goyal, Ross Girshick, Kaiming He, Piotr Dollár, 2017, Arxiv](https://www.kaggle.com/datasets/phhasian0710/za-traffic-2020)
+[1] [Za_traffic_2020 dataset,Kaggle , Phan Huy Hoang , 2020](https://www.kaggle.com/datasets/phhasian0710/za-traffic-2020)
 
-[2] [RetinaNet (原始論文): Focal Loss for Dense Object Detection,Tsung-Yi Lin, Priya Goyal, Ross Girshick, Kaiming He, Piotr Dollár, 2017, Arxiv](https://arxiv.org/abs/1708.02002)
+[2] [Focal Loss for Dense Object Detection,Tsung-Yi Lin, Priya Goyal, Ross Girshick, Kaiming He, Piotr Dollár, 2017, Arxiv](https://arxiv.org/abs/1708.02002)
 
-[3] [RetinaNet (介紹): 物件偵測 - RetinaNet 介紹,22 12 , Medium, 2019](https://gino6178.medium.com/%E7%89%A9%E4%BB%B6%E5%81%B5%E6%B8%AC-retinanet-%E4%BB%8B%E7%B4%B9-dda4100673bb)
+[3] [RetinaNet 物件偵測 - RetinaNet 介紹, 22 12 , Medium, 2019](https://gino6178.medium.com/%E7%89%A9%E4%BB%B6%E5%81%B5%E6%B8%AC-retinanet-%E4%BB%8B%E7%B4%B9-dda4100673bb)
